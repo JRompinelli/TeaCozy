@@ -17,7 +17,7 @@ Project made for Codecademy as part of the Full-Stack learning path.
 * CSS3
 
 ## Setup
-
+https://jrompinelli.github.io/TeaCozy/.
 
 ## Status
 Project is: _finished_.
